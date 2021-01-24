@@ -39,6 +39,8 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 [Mulesoft meetups](https://meetups.mulesoft.com)
 
+[Customer case studies](https://www.mulesoft.com/case-studies)
+
 ## Components of Mulesoft
 
 Anypoint Components            |  AnyPoint architecture
@@ -108,6 +110,10 @@ Anypoint Components            |  AnyPoint architecture
 
 [EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/)
 
+[Eloqua](http://cdn.cdata.com/help/DUF/mule/)
+
+[Fusion/Cloud ERP](https://www.astcorporation.com/mulesoft-oracle-connector/)
+
 ### Twilio
 
 [Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
@@ -139,6 +145,10 @@ Anypoint Components            |  AnyPoint architecture
 [Redshift](https://www.youtube.com/watch?v=uAfEg80SqOA&t=9s)
 
 [lambda](https://www.youtube.com/watch?v=Fad_shR9hMw)
+
+### Open Source
+
+[kafka](https://www.royalcyber.com/blog/apache-kafka/apache-kafka-integration-with-mulesoft/)
 
 ### General REST APIs
 
