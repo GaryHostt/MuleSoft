@@ -41,6 +41,16 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 ## Components of Mulesoft
 
+AnyPoint Studio  |  GArechitecture
+:-----------------------------:|:-------------------------:
+<p align="center">
+  <img src="https://github.com/GaryHostt/Mulesoft/blob/main/components.png?raw=true" width = 180 height = 450 alt="AnyPoint Studio"/>
+</p>              |  <p align="center">
+  <img src="https://docs.mulesoft.com/runtime-manager/_images/architecture-diagram.png?raw=true" width = 180 height = 450 alt="AnyPoint Studio"/>
+</p>
+
+
+
 <p align="center">
   <img src="https://github.com/GaryHostt/Mulesoft/blob/main/components.png?raw=true" width = 180 height = 450 alt="AnyPoint Studio"/>
 </p>
