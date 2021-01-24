@@ -15,7 +15,13 @@ Knowledge repository for integrating with Mulesoft.
 
 [Radio Mulesoft, a podcast](https://podcasts.apple.com/be/podcast/radio-mulesoft/id1498103178)
 
+## You & Mulesoft
+
 [Work at Mulesoft!](https://www.mulesoft.com/careers)
+
+[Mulesoft meetups](https://meetups.mulesoft.com)
+
+## Training
 
 [Free Mulesoft self-paced training](https://training.mulesoft.com/course-catalog?results=true&courseFormat=Self-paced)
 
