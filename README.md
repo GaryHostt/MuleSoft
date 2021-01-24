@@ -27,6 +27,10 @@ Knowledge repository for integrating with Mulesoft.
 
 [Mulesoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
 
+## How to integrate with X
+
+[salesforce](https://www.mulesoft.com/resources/salesforce)
+
 ## Videos
 
 [Mulesoft Youtube Channel](https://www.youtube.com/user/mulesoftvids)
@@ -46,6 +50,10 @@ Knowledge repository for integrating with Mulesoft.
 [AWS S3 with Mulesoft](https://www.youtube.com/watch?v=VlPmg2lVvzM)
 
 ## Articles
+
+[Official Mulesoft articles](https://www.mulesoft.com/resources/articles)
+
+- Find the best practices
 
 [Mulesoft + BigQuery](https://www.apisero.com/mulesoft-bigquery-series-2/)
 
