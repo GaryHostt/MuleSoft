@@ -17,6 +17,8 @@ Knowledge repository for integrating with Mulesoft.
 
 [Work at Mulesoft!](https://www.mulesoft.com/careers)
 
+[Free Mulesoft self-paced training](https://training.mulesoft.com/course-catalog?results=true&courseFormat=Self-paced)
+
 ## Videos
 
 [Mulesoft Youtube Channel](https://www.youtube.com/user/mulesoftvids)
@@ -48,6 +50,8 @@ Knowledge repository for integrating with Mulesoft.
 [Increasing JVM memory](https://help.mulesoft.com/s/article/Increasing-JVM-memory-heap-in-Anypoint-Studio-to-avoid-OutOfMemory-issues)
 
 ## Certification
+
+[Mulesoft Certifications](https://training.mulesoft.com/certification)
 
 [Udemy - Mulesoft level 4](https://www.udemy.com/course/mulesoft-certified-developer-mule-4/)
 
