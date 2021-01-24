@@ -1,5 +1,5 @@
 # Mulesoft
-Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). 
+Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide vertical solutions for potential mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical.
 
 <p align="center">
   <img src="https://www.mulesoft.com/sites/default/files/MuleSoft_logo_299C_stacked_3.png?raw=true" alt="Mule"/>
@@ -29,7 +29,7 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 [Mulesoft white papers](https://www.mulesoft.com/integration-resources?type[0]=Whitepaper)
 
-#### Youtube videos
+#### Youtube
 
 [What is API-led Connectivity?](https://www.youtube.com/watch?v=WYociWuCInE)
 
@@ -83,6 +83,14 @@ Anypoint Components            |  AnyPoint architecture
 [batch request](https://www.youtube.com/watch?v=6AYGCfQCOCQ)
 
 [syncing data to AWS S3](https://www.youtube.com/watch?v=b3Z9pWi2lkk)
+
+### Microsoft
+
+[SQL Server - 1](https://mulesy.com/microsoft-sql-server-with-mule/)
+
+[SQL Server - 2](https://dzone.com/articles/connecting-to-ms-sql-server-with-mulesoft)
+
+[Azure storage](https://mulesy.com/integrating-azure-storage-with-mulesoft/)
 
 ### GCP
 
@@ -193,6 +201,8 @@ Anypoint Components            |  AnyPoint architecture
 [Using Github with Anypoint studio - Youtube](https://www.youtube.com/watch?v=35fHx23zjP0)
 
 [Running Mulesoft on Google Kubernetes Engine](https://www.youtube.com/watch?v=tJDSQ1EUKUI)
+
+[Running Mulesoft on Azure](https://docs.mulesoft.com/runtime-fabric/1.8/install-azure)
 
 ## Certification
 
