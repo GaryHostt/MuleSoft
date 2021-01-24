@@ -208,4 +208,6 @@ Anypoint Components            |  AnyPoint architecture
 
 [Workshop presentations](https://martinhumpolec.cz/mulesoft-workshop/)
 
+[HCM best practices - white paper](https://www.mulesoft.com/lp/whitepaper/api/hcm-integration-best-practices)
+
 
