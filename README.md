@@ -92,6 +92,10 @@ Anypoint Components            |  AnyPoint architecture
 
 [Azure storage](https://mulesy.com/integrating-azure-storage-with-mulesoft/)
 
+[Azure Service Bus connector documentation](https://docs.mulesoft.com/microsoft-azure-sb-connector/3.1/) + [how to-1](https://www.whishworks.com/blog/mulesoft/integration-of-mule-esb-with-microsoft-azure/) & [how to-2](https://www.ricston.com/blog/mulesoft-connectivity-with-microsoft-azure-service-bus/)
+
+[Azure data lake](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/create-customer-360-mulesoft-azure-data-lake-store/)
+
 ### GCP
 
 [Mulesoft + BigQuery](https://www.apisero.com/mulesoft-bigquery-series-2/)
@@ -200,9 +204,13 @@ Anypoint Components            |  AnyPoint architecture
 
 [Using Github with Anypoint studio - Youtube](https://www.youtube.com/watch?v=35fHx23zjP0)
 
+### Mulesoft on other clouds
+
 [Running Mulesoft on Google Kubernetes Engine](https://www.youtube.com/watch?v=tJDSQ1EUKUI)
 
 [Running Mulesoft on Azure](https://docs.mulesoft.com/runtime-fabric/1.8/install-azure)
+
+[Deploy Mulesoft with Azure DevOps](https://dzone.com/articles/deploying-mulesoft-using-azure-devops) + [details](https://stackoverflow.com/questions/57526007/deploying-mulesoft-application-using-azure-devops)
 
 ## Certification
 
