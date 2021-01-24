@@ -25,6 +25,8 @@ Knowledge repository for integrating with Mulesoft.
 
 [Free Mulesoft self-paced training](https://training.mulesoft.com/course-catalog?results=true&courseFormat=Self-paced)
 
+[Mulesoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
+
 ## Videos
 
 [Mulesoft Youtube Channel](https://www.youtube.com/user/mulesoftvids)
