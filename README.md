@@ -7,6 +7,8 @@ Knowledge repository for integrating with Mulesoft.
 
 ## Official links
 
+[What is Mulesoft?](https://www.salesforce.com/blog/what-is-mulesoft/)
+
 [Mulesoft.com](https://www.mulesoft.com)
 
 [Mulesoft Composer](https://www.mulesoft.com/platform/api/no-code-integration-tool)
@@ -21,15 +23,27 @@ Knowledge repository for integrating with Mulesoft.
 
 [Mulesoft meetups](https://meetups.mulesoft.com)
 
+## Components of Mulesoft
+
+[API Manager](https://docs.mulesoft.com/api-manager/2.x/)
+
 ## Training
 
 [Free Mulesoft self-paced training](https://training.mulesoft.com/course-catalog?results=true&courseFormat=Self-paced)
 
 [Mulesoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
 
+[TutorialsPoint](https://www.tutorialspoint.com/mulesoft/index.htm)
+
+[Vanchiv tutorials](https://vanchiv.com/category/integration/mulesoft-tutorial-and-guide/)
+
+[Top tutorials for new developers](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/getting-started-with-mulesoft/)
+
 ## How to integrate with X
 
 [salesforce](https://www.mulesoft.com/resources/salesforce)
+
+[salesforce connector documentation](https://docs.mulesoft.com/salesforce-connector/0.3.9/)
 
 ## Videos
 
@@ -61,9 +75,15 @@ Knowledge repository for integrating with Mulesoft.
 
 ## Adminstering Mulesoft
 
+[Licensing & sizing](https://www.infomentum.com/mulesoft-pricing-licence-cost)
+
 [Deployment options](https://docs.mulesoft.com/runtime-manager/deployment-strategies#cloudhub-deployments)
 
 [Increasing JVM memory](https://help.mulesoft.com/s/article/Increasing-JVM-memory-heap-in-Anypoint-Studio-to-avoid-OutOfMemory-issues)
+
+[Object store on Mulesoft - Youtube video](https://www.youtube.com/watch?v=gXZMxTZoXCQ)
+
+[CI/CD - high level - Youtube video](https://www.youtube.com/watch?v=c_Mlifcikj8)
 
 ## Certification
 
@@ -75,8 +95,12 @@ Knowledge repository for integrating with Mulesoft.
 
 [API-led Connectivity](http://workshop.tools.mulesoft.com/modules/)
 
+[salesforce & Mulesoft - Youtube](https://www.youtube.com/watch?v=NplNJIdT1y4&list=PL5jx2tzaZzrACn0PHDslh_S7cMO4FIk86)
+
 ## Misc
 
 [Ross Mason, the founder of Mulesoft](https://www.forbes.com/sites/stuartanderson/2016/06/04/ross-mason-immigrant-founder-of-1-5-billion-mulesoft-on-job-market-and-managing-a-global-company/?sh=608acfc547e3)
+
+[Workshop presentations](https://martinhumpolec.cz/mulesoft-workshop/)
 
 
