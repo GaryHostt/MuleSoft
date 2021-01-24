@@ -41,7 +41,7 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 ## Components of Mulesoft
 
-![](components.png)
+<img src="https://github.com/GaryHostt/Mulesoft/blob/main/components.png?raw=true" width = 48)
 
 [API Manager](https://docs.mulesoft.com/api-manager/2.x/)
 
