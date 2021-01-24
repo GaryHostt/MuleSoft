@@ -41,6 +41,8 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 ## Components of Mulesoft
 
+![](components.png)
+
 [API Manager](https://docs.mulesoft.com/api-manager/2.x/)
 
 ## Training
