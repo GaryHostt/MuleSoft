@@ -27,6 +27,8 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 [Mulesoft Youtube Channel](https://www.youtube.com/user/mulesoftvids)
 
+[Mulesoft white papers](https://www.mulesoft.com/integration-resources?type[0]=Whitepaper)
+
 #### Youtube videos
 
 [What is API-led Connectivity?](https://www.youtube.com/watch?v=WYociWuCInE)
