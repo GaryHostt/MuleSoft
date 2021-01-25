@@ -143,7 +143,7 @@ Menu                           |  Architecture
 ## Microsoft
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 2000 height = 215 alt="Microsoft"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 1000 height = 180 alt="Microsoft"/>
 </p>
 
 [Dynamics-1](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-ms-dynamics-crm/) & [Dynamics-2](https://docs.mulesoft.com/microsoft-dynamics-crm-connector/0.3.8/)
@@ -191,7 +191,7 @@ Menu                           |  Architecture
 ## Oracle
 
 <p align="center">
-  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png?raw=true" width = 700 height = 200 alt="oci"/>
+  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png?raw=true" width = 600 height = 170 alt="oci"/>
 </p>
 
 ### Applications
