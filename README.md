@@ -1,5 +1,5 @@
 # Mulesoft
-This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide vertical solutions for potential Mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical. I am proud to work at a company committed to [equality](https://www.salesforce.com/company/equality/?bc=OTH).
+This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide vertical solutions for potential Mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical. I am proud to work at a company committed to [equality](https://www.salesforce.com/company/equality/?bc=OTH) and offers a developer portal for [COVID-19](https://covid-19.mulesoft-crisis-response.com/s/) resources.
 
 <p align="center">
   <img src="https://www.mulesoft.com/sites/default/files/MuleSoft_logo_299C_stacked_3.png?raw=true" width = 510 height = 360 alt="Mule"/>
@@ -21,37 +21,39 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 - Certifications
 - Misc
 
+**Tips on using this repo:**
+1. If you search 'youtube' that will take you to video resources.
+2. You can also search for the app name you are trying to integrate.
+
 ## Official links
 
 [Mulesoft.com](https://www.mulesoft.com)
 
+- ~50% of this repo can be found somewhere there.
+
 [Official Mulesoft documentation](https://docs.mulesoft.com/general/)
-
-- ~50% of this repo can be found there.
-
-[Mulesoft Composer](https://www.mulesoft.com/platform/api/no-code-integration-tool)
-
-- COMING SOON!
 
 [Login to Anypoint Platform](https://anypoint.mulesoft.com/login/) ++ [additional useful tools to enhance development](https://blogs.mulesoft.com/dev-guides/api-design/enhance-developers-anypoint-studio-experiences/)
 
-- This is where I spend most of my time.
+- This is where I spend most of my time these days.
 
 [Radio Mulesoft, a podcast](https://podcasts.apple.com/be/podcast/radio-mulesoft/id1498103178)
 
-- [Season 2 episode 1](https://podcasts.apple.com/be/podcast/apis-unplugged-season-2-episode-1-api-questions-for/id1498103178?i=1000506223990) started off with a very interesting story on how [this happened](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/) (**hint: bad API design!**)
+- [Season 2 episode 1](https://podcasts.apple.com/be/podcast/apis-unplugged-season-2-episode-1-api-questions-for/id1498103178?i=1000506223990) started off with a very interesting story on how [this happened](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/) (**hint: bad API design!**).
 
 [Mulesoft Youtube Channel](https://www.youtube.com/user/mulesoftvids)
 
-[Mulesoft white papers](https://www.mulesoft.com/integration-resources?type[0]=Whitepaper)
-
-[Official Mulesoft articles](https://www.mulesoft.com/resources/articles)
+[White papers](https://www.mulesoft.com/integration-resources?type[0]=Whitepaper) & [Articles](https://www.mulesoft.com/resources/articles)
 
 - Find the best practices
+
+[Vertical specific solutions](https://www.mulesoft.com/integration-solutions)
 
 ### Youtube
 
 [What is API-led Connectivity?](https://www.youtube.com/watch?v=WYociWuCInE)
+
+- It is the approach you use when developing with Mulesoft. It packages underlying connectivity and orchestration services as easily discoverable and reusable building blocks, exposed by APIs.
 
 [What is Mulesoft? Tutorial playlist on Youtube](https://www.youtube.com/watch?v=lRpJtMfa4zs&list=PLfEAetjBY9s5gywT2hC95rnZaW5CEZis-)
 
@@ -65,15 +67,25 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 [Build a connector](https://www.mulesoft.com/webinars/saas/building-powerful-connector-scratch) for your app! And get it [certified by Mulesoft](https://www.mulesoft.com/platform/cloud-connectors/certified)
 
-## Components of Mulesoft
+## Anypoint
 
-Anypoint Components            |  Anypoint architecture
+Menu                           |  Architecture
 :-----------------------------:|:-------------------------:
-![](components.png)              |  ![](architecture.png)
+![](components.png)            |  ![](architecture.png)
 
 [API Manager](https://docs.mulesoft.com/api-manager/2.x/)
 
 [Exchange](https://www.mulesoft.com/exchange/)
+
+- The above link will take you to assets provided by Mulesoft. Exchange offers hundreds, if not thousands, of [prebuilt templates](https://www.mulesoft.com/exchange/?type=template). Your use case may already be built and available for download!
+
+[Mulesoft Composer](https://www.mulesoft.com/platform/api/no-code-integration-tool)
+
+- COMING SOON!
+
+[Object Storage](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-objectstore/)
+
+[MQ](https://anypoint.mulesoft.com/exchange/org.mule.tooling.messaging/mule-module-anypoint-mq-ee-studio/)
 
 ## Training
 
@@ -86,6 +98,8 @@ Anypoint Components            |  Anypoint architecture
 [Mulesoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
 
 [Top tutorials for new developers](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/getting-started-with-mulesoft/)
+
+[Trailhead for integration](https://trailhead.salesforce.com/en/content/learn/trails/mulesoft-integration-trailblazer)
 
 ### Third party
 
@@ -100,6 +114,8 @@ Anypoint Components            |  Anypoint architecture
 [Mulesoft connector documentation - yes, all of them](https://docs.mulesoft.com/connectors/)
 
 [Top 10 Mulesoft connectors](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/top-download-connectors-anypoint-platform/)
+
+- All of these are discussed in this repo.
 
 [Mulesy - sample POCs](https://mulesy.com/mulesoft-pocs/)
 
@@ -129,9 +145,9 @@ Anypoint Components            |  Anypoint architecture
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 8000 height = 220 alt="Microsoft"/>
 </p>
 
-[SQL Server - 1](https://mulesy.com/microsoft-sql-server-with-mule/)
+[Dynamics-1](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-ms-dynamics-crm/) & [Dynamics-2](https://docs.mulesoft.com/microsoft-dynamics-crm-connector/0.3.8/)
 
-[SQL Server - 2](https://dzone.com/articles/connecting-to-ms-sql-server-with-mulesoft)
+[SQL Server - 1](https://mulesy.com/microsoft-sql-server-with-mule/) & [SQL Server - 2](https://dzone.com/articles/connecting-to-ms-sql-server-with-mulesoft)
 
 [Azure storage](https://mulesy.com/integrating-azure-storage-with-mulesoft/)
 
@@ -145,7 +161,7 @@ Anypoint Components            |  Anypoint architecture
   <img src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4?raw=true" width = 300 height = 300 alt="GCP"/>
 </p>
 
-[Mulesoft + BigQuery](https://www.apisero.com/mulesoft-bigquery-series-2/)
+[BigQuery](https://www.apisero.com/mulesoft-bigquery-series-2/)
 
 [Setup VPN from Mulesoft to Google Cloud](https://blogs.mulesoft.com/api-integration/security/setting-up-vpn-with-google-cloud/)
 
@@ -156,6 +172,8 @@ Anypoint Components            |  Anypoint architecture
 <p align="center">
   <img src="https://www.appythings.nl/wp-content/uploads/2018/06/SAP-logo-icon-PNG-Transparent-Background.png?raw=true" width = 280 height = 280 alt="SAP"/>
 </p>
+
+[salesforce to SAP Exchange template](https://www.mulesoft.com/exchange/org.mule.templates/template-sfdc2s4hana-order-migration/)
 
 ### Youtube
 
@@ -175,6 +193,8 @@ Anypoint Components            |  Anypoint architecture
   <img src="https://www.logolynx.com/images/logolynx/f7/f7b92de2e32ef4b05d6ada45aa1141bf.png?raw=true" width = 1400 height = 280 alt="oci"/>
 </p>
 
+### Applications
+
 [Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
 
 [EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/)
@@ -183,19 +203,19 @@ Anypoint Components            |  Anypoint architecture
 
 [Fusion/Cloud ERP](https://www.astcorporation.com/mulesoft-oracle-connector/)
 
-### Youtube
-
 [EBS](https://www.youtube.com/watch?v=aO48A17RQqg)
+
+[Sales Cloud](https://www.youtube.com/watch?v=Fd-XHKQCJPA)
+
+[Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
+
+### Database
 
 [Oracle Database](https://www.youtube.com/watch?v=EEDl0Sn8N5I)
 
 [Query Oracle Database](https://www.youtube.com/watch?v=AW6_unMvxYY)
 
 [Insert to Oracle Database](https://www.youtube.com/watch?v=Rxz6CnC0L1o)
-
-[Sales Cloud](https://www.youtube.com/watch?v=Fd-XHKQCJPA)
-
-[Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
 
 ## Twilio
 
@@ -231,17 +251,19 @@ Anypoint Components            |  Anypoint architecture
   <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/technology-partners/transparent-sn-logo%20%281%29.png" width = 1000 height = 260 alt="Microsoft"/>
 </p>
 
-[ServiceNow example-1](https://www.apisero.com/integration-between-servicenow-and-mulesoft/)
+[Example-1](https://www.apisero.com/integration-between-servicenow-and-mulesoft/) & [Example-2](https://dzone.com/articles/mulesoft-integration-with-servicenow)
 
 [JIRA + ServiceNow](https://www.mulesoft.com/resources/jira-servicenow)
-
-[ServiceNow example-2](https://dzone.com/articles/mulesoft-integration-with-servicenow)
 
 [ServiceNow - official documentation](https://docs.mulesoft.com/servicenow-connector/6.8/)
 
 ## Other SaaS
 
 [Docusign](https://www.whishworks.com/blog/mulesoft/integrating-docusign-with-mulesoft/)
+
+[Marketo](https://launchpoint.marketo.com/mulesoft-inc/mulesofts-anypoint-connector-for-marketo/)
+
+[Work.com](https://www.mulesoft.com/exchange/org.mule.examples/mulesoft-accelerator-for-workcom/)
 
 ### Sign up for your very own SaaS to play with
 
@@ -257,6 +279,8 @@ Anypoint Components            |  Anypoint architecture
 
 [kafka](https://www.royalcyber.com/blog/apache-kafka/apache-kafka-integration-with-mulesoft/)
 
+[LDAP-1](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-ldap/) & [LDAP-2](https://docs.mulesoft.com/ldap-connector/0.3.8/)
+
 ### General REST APIs
 
 <p align="center">
@@ -267,9 +291,11 @@ Anypoint Components            |  Anypoint architecture
 
 ### APIs to play with
 
-[World Atlas](http://restcountries.eu)
+[Countries](http://restcountries.eu)
 
 [Star Wars API](https://swapi.dev)
+
+- If you want to learn GraphQL, this is a great API to do it with, shown [here](https://github.com/graphql/swapi-graphql), [here](https://openbase.com/js/swapi-graphql/documentation), [here](https://www.youtube.com/watch?v=RDQyAcvmbpM). Then you can use [Mulesoft with GraphQL](https://dzone.com/articles/implementing-graphql-with-mulesoft)! A GraphQL integration can be a great [process API used with API-led connectivity](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/graphql-api-gateway/).
 
 [News API](https://newsapi.org)
 
@@ -278,6 +304,8 @@ Anypoint Components            |  Anypoint architecture
 [Census](https://www.census.gov/data/developers/data-sets.html)
 
 [The Department of Justice](https://www.justice.gov/developer/api-documentation/api_v1)
+
+[COVID-19 Data Tracking](https://www.mulesoft.com/exchange/68ef9520-24e9-4cf2-b2f5-620025690913/covid19-data-tracking-api/)
 
 # Administering Mulesoft
 
