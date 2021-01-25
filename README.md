@@ -29,6 +29,10 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 [Mulesoft white papers](https://www.mulesoft.com/integration-resources?type[0]=Whitepaper)
 
+[Official Mulesoft articles](https://www.mulesoft.com/resources/articles)
+
+- Find the best practices
+
 ### Youtube
 
 [What is API-led Connectivity?](https://www.youtube.com/watch?v=WYociWuCInE)
@@ -77,12 +81,14 @@ Anypoint Components            |  AnyPoint architecture
 
 [Mulesoft connector documentation - yes, all of them](https://docs.mulesoft.com/connectors/)
 
+[Top 10 Mulesoft connectors](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/top-download-connectors-anypoint-platform/)
+
 [Mulesy - sample POCs](https://mulesy.com/mulesoft-pocs/)
 
 ### salesforce
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Salesforce_logo.svg/220px-Salesforce_logo.svg.png?raw=true" alt="Mule"/>
+  <img src="http://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png?raw=true" width = 300 height = 300 alt="sfdc"/>
 </p>
 
 [salesforce integration general practices](https://www.mulesoft.com/resources/salesforce)
@@ -102,7 +108,7 @@ Anypoint Components            |  AnyPoint architecture
 ### Microsoft
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 1000 height = 300 alt="Mule"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 1000 height = 260 alt="Microsoft"/>
 </p>
 
 [SQL Server - 1](https://mulesy.com/microsoft-sql-server-with-mule/)
@@ -118,7 +124,7 @@ Anypoint Components            |  AnyPoint architecture
 ### GCP
 
 <p align="center">
-  <img src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4?raw=true" alt="Mule"/>
+  <img src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4?raw=true" width = 300 height = 300 alt="GCP"/>
 </p>
 
 [Mulesoft + BigQuery](https://www.apisero.com/mulesoft-bigquery-series-2/)
@@ -130,7 +136,7 @@ Anypoint Components            |  AnyPoint architecture
 ### SAP
 
 <p align="center">
-  <img src="https://www.appythings.nl/wp-content/uploads/2018/06/SAP-logo-icon-PNG-Transparent-Background.png?raw=true" alt="Mule"/>
+  <img src="https://www.appythings.nl/wp-content/uploads/2018/06/SAP-logo-icon-PNG-Transparent-Background.png?raw=true" width = 280 height = 280 alt="SAP"/>
 </p>
 
 #### Youtube
@@ -148,7 +154,7 @@ Anypoint Components            |  AnyPoint architecture
 ### Oracle
 
 <p align="center">
-  <img src="https://img2.pngio.com/oracle-cloud-infrastructure-i2coalition-oracle-cloud-png-1200_300.png?raw=true" alt="Mule"/>
+  <img src="https://banner2.cleanpng.com/20180816/wz/kisspng-oracle-corporation-oracle-database-oracle-warehous-install-oci8-in-centos-6-tech-bodyfitstation-5b75b8fb127012.1486785315344417230755.jpg?raw=true" width = 300 height = 300 alt="oci"/>
 </p>
 
 [Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
@@ -176,7 +182,7 @@ Anypoint Components            |  AnyPoint architecture
 ### Twilio
 
 <p align="center">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 300 height = 300 alt="Mule"/>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 300 height = 300 alt="Twilio"/>
 </p>
 
 [Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
@@ -186,7 +192,7 @@ Anypoint Components            |  AnyPoint architecture
 ### AWS
 
 <p align="center">
-  <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" alt="Mule"/>
+  <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" width = 300 height = 300 alt="AWS"/>
 </p>
 
 [General resources](https://blogs.mulesoft.com/tag/aws-integration/)
@@ -201,6 +207,24 @@ Anypoint Components            |  AnyPoint architecture
 
 [lambda](https://www.youtube.com/watch?v=Fad_shR9hMw)
 
+### ServiceNow
+
+<p align="center">
+  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/technology-partners/transparent-sn-logo%20%281%29.png" width = 1000 height = 260 alt="Microsoft"/>
+</p>
+
+[ServiceNow example-1](https://www.apisero.com/integration-between-servicenow-and-mulesoft/)
+
+[JIRA + ServiceNow](https://www.mulesoft.com/resources/jira-servicenow)
+
+[ServiceNow example-2](https://dzone.com/articles/mulesoft-integration-with-servicenow)
+
+[ServiceNow - official documentation](https://docs.mulesoft.com/servicenow-connector/6.8/)
+
+### Other SaaS
+
+[Docusign](https://www.whishworks.com/blog/mulesoft/integrating-docusign-with-mulesoft/)
+
 ### Open Source/technology/generic
 
 [File based integrations](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/howto-file-based-integrations-and-transfer/)
@@ -210,7 +234,7 @@ Anypoint Components            |  AnyPoint architecture
 #### General REST APIs
 
 <p align="center">
-  <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png?raw=true" alt="Mule"/>
+  <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png?raw=true" alt="general"/>
 </p>
 
 [Consuming REST in Mulesoft - Youtube](https://www.youtube.com/watch?v=fLJnezzVU4s)
@@ -227,15 +251,13 @@ Anypoint Components            |  AnyPoint architecture
 
 [The Department of Justice](https://www.justice.gov/developer/api-documentation/api_v1)
 
-## Articles
-
-[Official Mulesoft articles](https://www.mulesoft.com/resources/articles)
-
-- Find the best practices
-
 [API-led Connectivity slides](https://www.slideshare.net/mulesoft/transform-your-business-with-apiled-connectivity)
 
 ## Administering Mulesoft
+
+[CloudHub connector](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-cloudhub/)
+
+- This provides the ability to interact with CloudHub from within a Mule application. The operations allow you to deploy, start, stop, and update applications as well as send notifications from your Mule application to CloudHub.
 
 [Licensing & sizing](https://www.infomentum.com/mulesoft-pricing-licence-cost)
 
