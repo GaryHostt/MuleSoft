@@ -42,8 +42,6 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 - [Season 2 episode 1](https://podcasts.apple.com/be/podcast/apis-unplugged-season-2-episode-1-api-questions-for/id1498103178?i=1000506223990) started off with a very interesting story on how [this happened](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/) (**hint: bad API design!**).
 
-[Mulesoft Youtube Channel](https://www.youtube.com/user/mulesoftvids)
-
 [White papers](https://www.mulesoft.com/integration-resources?type[0]=Whitepaper) & [Articles](https://www.mulesoft.com/resources/articles)
 
 - Find the best practices
@@ -51,6 +49,8 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 [Vertical/Industry specific solutions](https://www.mulesoft.com/integration-solutions)
 
 ### Youtube
+
+[Mulesoft Youtube Channel](https://www.youtube.com/user/mulesoftvids)
 
 [What is API-led Connectivity?](https://www.youtube.com/watch?v=WYociWuCInE)
 
