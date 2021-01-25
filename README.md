@@ -154,7 +154,7 @@ Anypoint Components            |  Anypoint architecture
 ### Oracle
 
 <p align="center">
-  <img src="https://banner2.cleanpng.com/20180816/wz/kisspng-oracle-corporation-oracle-database-oracle-warehous-install-oci8-in-centos-6-tech-bodyfitstation-5b75b8fb127012.1486785315344417230755.jpg?raw=true" width = 300 height = 300 alt="oci"/>
+  <img src="https://www.logolynx.com/images/logolynx/f7/f7b92de2e32ef4b05d6ada45aa1141bf.png?raw=true" width = 300 height = 300 alt="oci"/>
 </p>
 
 [Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
@@ -192,7 +192,7 @@ Anypoint Components            |  Anypoint architecture
 ### AWS
 
 <p align="center">
-  <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" width = 300 height = 300 alt="AWS"/>
+  <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" width = 400 height = 300 alt="AWS"/>
 </p>
 
 [General resources](https://blogs.mulesoft.com/tag/aws-integration/)
