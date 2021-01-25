@@ -22,7 +22,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 **Tips on using this repo:**
 1. If you search for 'Youtube' that will take you to all of the video resources here.
-2. You can also search for the app name you are trying to integrate.
+2. You can also search for the app name you are trying to integrate (such as 'salesforce'), or 'template' for potential pre-built solutions
 3. If I have not given enough context with the terms I have used, see the [Mulesoft glossary](https://docs.mulesoft.com/general/glossary).
 
 ## Official links
