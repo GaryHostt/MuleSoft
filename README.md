@@ -108,7 +108,7 @@ Anypoint Components            |  Anypoint architecture
 ### Microsoft
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 1000 height = 260 alt="Microsoft"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 8000 height = 220 alt="Microsoft"/>
 </p>
 
 [SQL Server - 1](https://mulesy.com/microsoft-sql-server-with-mule/)
