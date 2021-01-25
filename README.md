@@ -12,7 +12,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 ## Outline of this repo
 
-- Official links
+- Getting started
 - Anypoint
 - Training
 - How to integrate with X, Y, Z
@@ -25,7 +25,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 2. You can also search for the app name you are trying to integrate (such as 'salesforce'), or 'template' for potential pre-built solutions
 3. If I have not given enough context with the terms I have used, see the [Mulesoft glossary](https://docs.mulesoft.com/general/glossary).
 
-## Official links
+## Getting started
 
 [Mulesoft.com](https://www.mulesoft.com)
 
