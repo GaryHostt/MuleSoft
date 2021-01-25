@@ -219,7 +219,7 @@ Menu                           |  Architecture
 ## Twilio
 
 <p align="center">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 2850 height = 260 alt="Twilio"/>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 285 height = 260 alt="Twilio"/>
 </p>
 
 [Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
@@ -247,7 +247,7 @@ Menu                           |  Architecture
 ## ServiceNow
 
 <p align="center">
-  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/technology-partners/transparent-sn-logo%20%281%29.png" width = 5000 height = 240 alt="Microsoft"/>
+  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/technology-partners/transparent-sn-logo%20%281%29.png" width = 600 height = 240 alt="Microsoft"/>
 </p>
 
 [Example-1](https://www.apisero.com/integration-between-servicenow-and-mulesoft/) & [Example-2](https://dzone.com/articles/mulesoft-integration-with-servicenow)
