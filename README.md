@@ -154,7 +154,7 @@ Anypoint Components            |  Anypoint architecture
 ### Oracle
 
 <p align="center">
-  <img src="https://www.logolynx.com/images/logolynx/f7/f7b92de2e32ef4b05d6ada45aa1141bf.png?raw=true" width = 300 height = 300 alt="oci"/>
+  <img src="https://www.logolynx.com/images/logolynx/f7/f7b92de2e32ef4b05d6ada45aa1141bf.png?raw=true" width = 1400 height = 280 alt="oci"/>
 </p>
 
 [Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
