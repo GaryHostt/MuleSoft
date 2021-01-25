@@ -265,13 +265,15 @@ Anypoint Components            |  Anypoint architecture
 
 [Increasing JVM memory](https://help.mulesoft.com/s/article/Increasing-JVM-memory-heap-in-Anypoint-Studio-to-avoid-OutOfMemory-issues)
 
-[Object store on Mulesoft - Youtube video](https://www.youtube.com/watch?v=gXZMxTZoXCQ)
+### Youtube
 
-[CI/CD - high level - Youtube video](https://www.youtube.com/watch?v=c_Mlifcikj8)
+[Object store on Mulesoft](https://www.youtube.com/watch?v=gXZMxTZoXCQ)
+
+[CI/CD - high level](https://www.youtube.com/watch?v=c_Mlifcikj8)
 
 [Setting up Anypoint studio for the first time](https://www.youtube.com/watch?v=cZUw2T0D7PU)
 
-[Using Github with Anypoint studio - Youtube](https://www.youtube.com/watch?v=35fHx23zjP0)
+[Using Github with Anypoint studio](https://www.youtube.com/watch?v=35fHx23zjP0)
 
 ### Mulesoft on other clouds
 
