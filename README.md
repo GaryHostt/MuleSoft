@@ -317,6 +317,8 @@ Menu                           |  Architecture
 
 # Administering Mulesoft
 
+[Using your own Identity Provider with Mulesoft](https://docs.mulesoft.com/access-management/managing-users)
+
 [CloudHub connector](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-cloudhub/)
 
 - This provides the ability to interact with CloudHub from within a Mule application. The operations allow you to deploy, start, stop, and update applications as well as send notifications from your Mule application to CloudHub.
