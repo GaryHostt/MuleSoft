@@ -212,6 +212,8 @@ Menu                           |  Architecture
 
 [Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
 
+[All Mulesoft Oracle templates](https://www.mulesoft.com/exchange/?type=template&search=oracle)
+
 ### Database - Youtube videos
 
 [Oracle Database](https://www.youtube.com/watch?v=EEDl0Sn8N5I)
@@ -259,6 +261,8 @@ Menu                           |  Architecture
 [JIRA + ServiceNow](https://www.mulesoft.com/resources/jira-servicenow)
 
 [ServiceNow - official documentation](https://docs.mulesoft.com/servicenow-connector/6.8/)
+
+[ServiceNow templates on Exchange](https://www.mulesoft.com/exchange/?type=template&search=servicenow)
 
 ## Other SaaS
 
