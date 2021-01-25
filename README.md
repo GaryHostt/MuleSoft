@@ -126,9 +126,13 @@ Menu                           |  Architecture
   <img src="http://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png?raw=true" width = 400 height = 300 alt="sfdc"/>
 </p>
 
-[salesforce integration general practices](https://www.mulesoft.com/resources/salesforce)
+[SFDC General practices](https://www.mulesoft.com/resources/salesforce)
 
-[salesforce connector documentation](https://docs.mulesoft.com/salesforce-connector/0.3.9/)
+[Connector documentation](https://docs.mulesoft.com/salesforce-connector/0.3.9/)
+
+[All Mulesoft salesforce integration templates](https://www.mulesoft.com/exchange/?type=template&search=salesforce)
+
+- you can search for any application for Mulesoft supported templates
 
 ### Youtube
 
@@ -263,6 +267,8 @@ Menu                           |  Architecture
 [Marketo](https://launchpoint.marketo.com/mulesoft-inc/mulesofts-anypoint-connector-for-marketo/)
 
 [Work.com](https://www.mulesoft.com/exchange/org.mule.examples/mulesoft-accelerator-for-workcom/)
+
+[Workday & ServiceNow Employee Aggregation template](https://www.mulesoft.com/exchange/org.mule.templates/template-wday2snow-employee-aggregation/)
 
 ### Sign up for your very own SaaS to play with
 
