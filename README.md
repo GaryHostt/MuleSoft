@@ -198,19 +198,17 @@ Menu                           |  Architecture
 
 [Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
 
-[EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/)
+[EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/) with [Youtube video example](https://www.youtube.com/watch?v=aO48A17RQqg)
 
 [Eloqua](http://cdn.cdata.com/help/DUF/mule/)
 
 [Fusion/Cloud ERP](https://www.astcorporation.com/mulesoft-oracle-connector/)
 
-[EBS](https://www.youtube.com/watch?v=aO48A17RQqg)
-
 [Sales Cloud](https://www.youtube.com/watch?v=Fd-XHKQCJPA)
 
 [Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
 
-### Database
+### Database - Youtube videos
 
 [Oracle Database](https://www.youtube.com/watch?v=EEDl0Sn8N5I)
 
@@ -314,11 +312,15 @@ Menu                           |  Architecture
 
 - This provides the ability to interact with CloudHub from within a Mule application. The operations allow you to deploy, start, stop, and update applications as well as send notifications from your Mule application to CloudHub.
 
-[Licensing & sizing](https://www.infomentum.com/mulesoft-pricing-licence-cost)
+[Pricing](https://www.mulesoft.com/anypoint-pricing), [licensing, & sizing](https://www.infomentum.com/mulesoft-pricing-licence-cost)
+
+- [additional info](https://www.whishworks.com/blog/mulesoft/mulesoft-anypoint-platform-licence-cost/)
 
 [Deployment options](https://docs.mulesoft.com/runtime-manager/deployment-strategies#cloudhub-deployments)
 
 [Increasing JVM memory](https://help.mulesoft.com/s/article/Increasing-JVM-memory-heap-in-Anypoint-Studio-to-avoid-OutOfMemory-issues)
+
+- This can be useful when doing local development on your laptop.
 
 ## Youtube
 
