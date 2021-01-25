@@ -11,6 +11,17 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 - Try Mulesoft with a 30 day trial [here](https://www.mulesoft.com/legal/terms/trial)
 
+## Outline of this repo
+
+- Official links
+- Components of Mulesoft
+- Training
+- How to integrate with X, Y, Z
+- Administering Mulesoft
+- Certifications
+- Misc
+
+
 ## Official links
 
 [Mulesoft.com](https://www.mulesoft.com)
@@ -39,7 +50,7 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 [What is Mulesoft? Tutorial playlist on Youtube](https://www.youtube.com/watch?v=lRpJtMfa4zs&list=PLfEAetjBY9s5gywT2hC95rnZaW5CEZis-)
 
-## You & Mulesoft
+### You & Mulesoft
 
 [Work at Mulesoft!](https://www.mulesoft.com/careers)
 
@@ -285,7 +296,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Deploy Mulesoft with Azure DevOps](https://dzone.com/articles/deploying-mulesoft-using-azure-devops) + [details](https://stackoverflow.com/questions/57526007/deploying-mulesoft-application-using-azure-devops)
 
-## Certification
+## Certifications
 
 ### Offical
 
