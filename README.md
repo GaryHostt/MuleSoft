@@ -24,6 +24,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 **Tips on using this repo:**
 1. If you search 'youtube' that will take you to video resources.
 2. You can also search for the app name you are trying to integrate.
+3. If I have not given enough context with the terms I have used, see the [Mulesoft glossary](https://docs.mulesoft.com/general/glossary).
 
 ## Official links
 
