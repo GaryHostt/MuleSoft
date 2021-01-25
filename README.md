@@ -191,7 +191,7 @@ Menu                           |  Architecture
 ## Oracle
 
 <p align="center">
-  <img src="https://www.logolynx.com/images/logolynx/f7/f7b92de2e32ef4b05d6ada45aa1141bf.png?raw=true" width = 1400 height = 280 alt="oci"/>
+  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png?raw=true" width = 1400 height = 280 alt="oci"/>
 </p>
 
 ### Applications
