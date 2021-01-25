@@ -19,7 +19,7 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 [Mulesoft Composer](https://www.mulesoft.com/platform/api/no-code-integration-tool)
 
-[Login to Anypoint Platform](https://anypoint.mulesoft.com/login/)
+[Login to Anypoint Platform](https://anypoint.mulesoft.com/login/) ++ [additional useful tools to enhance development](https://blogs.mulesoft.com/dev-guides/api-design/enhance-developers-anypoint-studio-experiences/)
 
 [Radio Mulesoft, a podcast](https://podcasts.apple.com/be/podcast/radio-mulesoft/id1498103178)
 
@@ -29,7 +29,7 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 [Mulesoft white papers](https://www.mulesoft.com/integration-resources?type[0]=Whitepaper)
 
-#### Youtube
+### Youtube
 
 [What is API-led Connectivity?](https://www.youtube.com/watch?v=WYociWuCInE)
 
@@ -43,32 +43,47 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 [Customer case studies](https://www.mulesoft.com/case-studies)
 
+[Build a connector](https://www.mulesoft.com/webinars/saas/building-powerful-connector-scratch) for your app! And get it [certified by Mulesoft](https://www.mulesoft.com/platform/cloud-connectors/certified)
+
 ## Components of Mulesoft
 
 Anypoint Components            |  AnyPoint architecture
 :-----------------------------:|:-------------------------:
 ![](components.png)              |  ![](architecture.png)
 
-
 [API Manager](https://docs.mulesoft.com/api-manager/2.x/)
+
+[Exchange](https://www.mulesoft.com/exchange/)
 
 ## Training
 
-[Free Mulesoft self-paced training](https://training.mulesoft.com/course-catalog?results=true&courseFormat=Self-paced)
+### Official
+
+[API-led Connectivity](http://workshop.tools.mulesoft.com/modules/)
 
 [Mulesoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
+
+[Top tutorials for new developers](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/getting-started-with-mulesoft/)
+
+### Third party
+
+[Free Mulesoft self-paced training](https://training.mulesoft.com/course-catalog?results=true&courseFormat=Self-paced)
 
 [TutorialsPoint](https://www.tutorialspoint.com/mulesoft/index.htm)
 
 [Vanchiv tutorials](https://vanchiv.com/category/integration/mulesoft-tutorial-and-guide/)
 
-[Top tutorials for new developers](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/getting-started-with-mulesoft/)
-
 ## How to integrate with X
 
-[Mulesoft connector documentation](https://docs.mulesoft.com/connectors/)
+[Mulesoft connector documentation - yes, all of them](https://docs.mulesoft.com/connectors/)
+
+[Mulesy - sample POCs](https://mulesy.com/mulesoft-pocs/)
 
 ### salesforce
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Salesforce_logo.svg/220px-Salesforce_logo.svg.png?raw=true" alt="Mule"/>
+</p>
 
 [salesforce integration general practices](https://www.mulesoft.com/resources/salesforce)
 
@@ -86,6 +101,10 @@ Anypoint Components            |  AnyPoint architecture
 
 ### Microsoft
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" alt="Mule"/>
+</p>
+
 [SQL Server - 1](https://mulesy.com/microsoft-sql-server-with-mule/)
 
 [SQL Server - 2](https://dzone.com/articles/connecting-to-ms-sql-server-with-mulesoft)
@@ -98,6 +117,10 @@ Anypoint Components            |  AnyPoint architecture
 
 ### GCP
 
+<p align="center">
+  <img src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4?raw=true" alt="Mule"/>
+</p>
+
 [Mulesoft + BigQuery](https://www.apisero.com/mulesoft-bigquery-series-2/)
 
 [Setup VPN from Mulesoft to Google Cloud](https://blogs.mulesoft.com/api-integration/security/setting-up-vpn-with-google-cloud/)
@@ -105,6 +128,10 @@ Anypoint Components            |  AnyPoint architecture
 [Pub/Sub - Youtube](https://www.youtube.com/watch?v=74Rb1to0vNc)
 
 ### SAP
+
+<p align="center">
+  <img src="https://www.appythings.nl/wp-content/uploads/2018/06/SAP-logo-icon-PNG-Transparent-Background.png?raw=true" alt="Mule"/>
+</p>
 
 #### Youtube
 
@@ -120,6 +147,10 @@ Anypoint Components            |  AnyPoint architecture
 
 ### Oracle
 
+<p align="center">
+  <img src="https://img2.pngio.com/oracle-cloud-infrastructure-i2coalition-oracle-cloud-png-1200_300.png?raw=true" alt="Mule"/>
+</p>
+
 [Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
 
 [EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/)
@@ -127,12 +158,6 @@ Anypoint Components            |  AnyPoint architecture
 [Eloqua](http://cdn.cdata.com/help/DUF/mule/)
 
 [Fusion/Cloud ERP](https://www.astcorporation.com/mulesoft-oracle-connector/)
-
-### Twilio
-
-[Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
-
-[Twilio dev-guide](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/twilio-cloud-connector-2/)
 
 #### Youtube
 
@@ -148,11 +173,27 @@ Anypoint Components            |  AnyPoint architecture
 
 [Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
 
+### Twilio
+
+<p align="center">
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" alt="Mule"/>
+</p>
+
+[Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
+
+[Twilio dev-guide](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/twilio-cloud-connector-2/)
+
 ### AWS
+
+<p align="center">
+  <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" alt="Mule"/>
+</p>
+
+[General resources](https://blogs.mulesoft.com/tag/aws-integration/)
 
 [Extending AWS with Mulesoft - white paper](https://www.mulesoft.com/webinars/api/aws-integration-developer)
 
-#### Youtube videos
+#### Youtube
 
 [AWS S3 with Mulesoft](https://www.youtube.com/watch?v=VlPmg2lVvzM)
 
@@ -165,6 +206,10 @@ Anypoint Components            |  AnyPoint architecture
 [kafka](https://www.royalcyber.com/blog/apache-kafka/apache-kafka-integration-with-mulesoft/)
 
 ### General REST APIs
+
+<p align="center">
+  <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png?raw=true" alt="Mule"/>
+</p>
 
 [Consuming REST in Mulesoft - Youtube](https://www.youtube.com/watch?v=fLJnezzVU4s)
 
@@ -188,7 +233,7 @@ Anypoint Components            |  AnyPoint architecture
 
 [API-led Connectivity slides](https://www.slideshare.net/mulesoft/transform-your-business-with-apiled-connectivity)
 
-## Adminstering Mulesoft
+## Administering Mulesoft
 
 [Licensing & sizing](https://www.infomentum.com/mulesoft-pricing-licence-cost)
 
@@ -206,6 +251,8 @@ Anypoint Components            |  AnyPoint architecture
 
 ### Mulesoft on other clouds
 
+[Runtime Fabric on AWS](https://stackoverflow.com/questions/57526007/deploying-mulesoft-application-using-azure-devops)
+
 [Running Mulesoft on Google Kubernetes Engine](https://www.youtube.com/watch?v=tJDSQ1EUKUI)
 
 [Running Mulesoft on Azure](https://docs.mulesoft.com/runtime-fabric/1.8/install-azure)
@@ -214,13 +261,25 @@ Anypoint Components            |  AnyPoint architecture
 
 ## Certification
 
-[Mulesoft Certifications](https://training.mulesoft.com/certification)
+### Offical
+
+[Preparing - what you need to know, by Mulesoft](https://www.mulesoft.com/webinars/api/preparing-for-mulesoft-certifications)
+
+[Exam details](https://help.learn.mulesoft.com/hc/en-us/categories/115001475248-Certification)
+
+[Level 1 exam summary](https://training.mulesoft.com/certification/developer-mule4-level1)
+
+[5 things to know about getting certified](https://blogs.mulesoft.com/learn-apis/integration-training/learn-about-mulesoft-training-and-certification/)
+
+[All Mulesoft Certifications](https://training.mulesoft.com/certification)
+
+### Third party
+
+[Mulesy - general guide](https://mulesy.com/0-mulesoft-certifications/)
 
 [Udemy - Mulesoft level 4](https://www.udemy.com/course/mulesoft-certified-developer-mule-4/)
 
-## Workshops
-
-[API-led Connectivity](http://workshop.tools.mulesoft.com/modules/)
+[Udemy - Mulesoft Platform Architect](https://www.udemy.com/course/ultimate-mulesoft-certified-platform-architect-course/)
 
 ## Misc
 
