@@ -49,7 +49,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 ### Youtube
 
-[Mulesoft Youtube Channel](https://www.youtube.com/user/mulesoftvids)
+[Mulesoft channel](https://www.youtube.com/user/mulesoftvids)
 
 [What is API-led Connectivity?](https://www.youtube.com/watch?v=WYociWuCInE)
 
