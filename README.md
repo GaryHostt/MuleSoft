@@ -102,7 +102,7 @@ Anypoint Components            |  AnyPoint architecture
 ### Microsoft
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" alt="Mule"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 1000 height = 300 alt="Mule"/>
 </p>
 
 [SQL Server - 1](https://mulesy.com/microsoft-sql-server-with-mule/)
@@ -176,7 +176,7 @@ Anypoint Components            |  AnyPoint architecture
 ### Twilio
 
 <p align="center">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" alt="Mule"/>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 300 height = 300 alt="Mule"/>
 </p>
 
 [Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
@@ -201,11 +201,13 @@ Anypoint Components            |  AnyPoint architecture
 
 [lambda](https://www.youtube.com/watch?v=Fad_shR9hMw)
 
-### Open Source
+### Open Source/technology/generic
+
+[File based integrations](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/howto-file-based-integrations-and-transfer/)
 
 [kafka](https://www.royalcyber.com/blog/apache-kafka/apache-kafka-integration-with-mulesoft/)
 
-### General REST APIs
+#### General REST APIs
 
 <p align="center">
   <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png?raw=true" alt="Mule"/>
