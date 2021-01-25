@@ -143,7 +143,7 @@ Menu                           |  Architecture
 ## Microsoft
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 500 height = 180 alt="Microsoft"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 480 height = 180 alt="Microsoft"/>
 </p>
 
 [Dynamics-1](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-ms-dynamics-crm/) & [Dynamics-2](https://docs.mulesoft.com/microsoft-dynamics-crm-connector/0.3.8/)
@@ -159,7 +159,7 @@ Menu                           |  Architecture
 ## GCP
 
 <p align="center">
-  <img src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4?raw=true" width = 300 height = 300 alt="GCP"/>
+  <img src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4?raw=true" width = 280 height = 280 alt="GCP"/>
 </p>
 
 [BigQuery](https://www.apisero.com/mulesoft-bigquery-series-2/)
@@ -191,7 +191,7 @@ Menu                           |  Architecture
 ## Oracle
 
 <p align="center">
-  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png?raw=true" width = 600 height = 170 alt="oci"/>
+  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png?raw=true" width = 550 height = 160 alt="oci"/>
 </p>
 
 ### Applications
@@ -219,7 +219,7 @@ Menu                           |  Architecture
 ## Twilio
 
 <p align="center">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 300 height = 300 alt="Twilio"/>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 2850 height = 260 alt="Twilio"/>
 </p>
 
 [Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
@@ -229,7 +229,7 @@ Menu                           |  Architecture
 ## AWS
 
 <p align="center">
-  <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" width = 400 height = 300 alt="AWS"/>
+  <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" width = 360 height = 270 alt="AWS"/>
 </p>
 
 [General resources](https://blogs.mulesoft.com/tag/aws-integration/)
@@ -247,7 +247,7 @@ Menu                           |  Architecture
 ## ServiceNow
 
 <p align="center">
-  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/technology-partners/transparent-sn-logo%20%281%29.png" width = 1000 height = 260 alt="Microsoft"/>
+  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/technology-partners/transparent-sn-logo%20%281%29.png" width = 5000 height = 240 alt="Microsoft"/>
 </p>
 
 [Example-1](https://www.apisero.com/integration-between-servicenow-and-mulesoft/) & [Example-2](https://dzone.com/articles/mulesoft-integration-with-servicenow)
