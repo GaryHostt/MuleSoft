@@ -56,7 +56,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 - It is the approach you use when developing with Mulesoft. It packages underlying connectivity and orchestration services as easily discoverable and reusable building blocks, exposed by APIs.
 
-[What is Mulesoft? Tutorial playlist on Youtube](https://www.youtube.com/watch?v=lRpJtMfa4zs&list=PLfEAetjBY9s5gywT2hC95rnZaW5CEZis-)
+[What is Mulesoft? Tutorial playlist](https://www.youtube.com/watch?v=lRpJtMfa4zs&list=PLfEAetjBY9s5gywT2hC95rnZaW5CEZis-)
 
 ### You & Mulesoft
 
