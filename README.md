@@ -51,7 +51,7 @@ Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://i
 
 ## Components of Mulesoft
 
-Anypoint Components            |  AnyPoint architecture
+Anypoint Components            |  Anypoint architecture
 :-----------------------------:|:-------------------------:
 ![](components.png)              |  ![](architecture.png)
 
@@ -88,7 +88,7 @@ Anypoint Components            |  AnyPoint architecture
 ### salesforce
 
 <p align="center">
-  <img src="http://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png?raw=true" width = 300 height = 300 alt="sfdc"/>
+  <img src="http://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png?raw=true" width = 400 height = 300 alt="sfdc"/>
 </p>
 
 [salesforce integration general practices](https://www.mulesoft.com/resources/salesforce)
