@@ -1,5 +1,5 @@
 # Mulesoft
-This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide vertical solutions for potential Mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical.
+This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide vertical solutions for potential Mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical. I am proud to work at a company committed to [equality](https://www.salesforce.com/company/equality/?bc=OTH).
 
 <p align="center">
   <img src="https://www.mulesoft.com/sites/default/files/MuleSoft_logo_299C_stacked_3.png?raw=true" width = 510 height = 360 alt="Mule"/>
@@ -21,16 +21,21 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 - Certifications
 - Misc
 
-
 ## Official links
 
 [Mulesoft.com](https://www.mulesoft.com)
 
 [Official Mulesoft documentation](https://docs.mulesoft.com/general/)
 
+- ~50% of this repo can be found there.
+
 [Mulesoft Composer](https://www.mulesoft.com/platform/api/no-code-integration-tool)
 
+- COMING SOON!
+
 [Login to Anypoint Platform](https://anypoint.mulesoft.com/login/) ++ [additional useful tools to enhance development](https://blogs.mulesoft.com/dev-guides/api-design/enhance-developers-anypoint-studio-experiences/)
+
+- This is where I spend most of my time.
 
 [Radio Mulesoft, a podcast](https://podcasts.apple.com/be/podcast/radio-mulesoft/id1498103178)
 
@@ -74,7 +79,9 @@ Anypoint Components            |  Anypoint architecture
 
 ### Official
 
-[API-led Connectivity](http://workshop.tools.mulesoft.com/modules/)
+[API-led Connectivity](http://workshop.tools.mulesoft.com/modules/module0)
+
+- This is the first place I would tell you to start in order to learn Mulesoft. 
 
 [Mulesoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
 
@@ -88,7 +95,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Vanchiv tutorials](https://vanchiv.com/category/integration/mulesoft-tutorial-and-guide/)
 
-## How to integrate with X
+# How to integrate with X
 
 [Mulesoft connector documentation - yes, all of them](https://docs.mulesoft.com/connectors/)
 
@@ -96,7 +103,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Mulesy - sample POCs](https://mulesy.com/mulesoft-pocs/)
 
-### salesforce
+## salesforce
 
 <p align="center">
   <img src="http://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png?raw=true" width = 400 height = 300 alt="sfdc"/>
@@ -106,7 +113,7 @@ Anypoint Components            |  Anypoint architecture
 
 [salesforce connector documentation](https://docs.mulesoft.com/salesforce-connector/0.3.9/)
 
-#### Youtube
+### Youtube
 
 [Querying salesforce with Mulesoft](https://www.youtube.com/watch?v=TeAHUjILPJA)
 
@@ -116,7 +123,7 @@ Anypoint Components            |  Anypoint architecture
 
 [syncing data to AWS S3](https://www.youtube.com/watch?v=b3Z9pWi2lkk)
 
-### Microsoft
+## Microsoft
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 8000 height = 220 alt="Microsoft"/>
@@ -132,7 +139,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Azure data lake](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/create-customer-360-mulesoft-azure-data-lake-store/)
 
-### GCP
+## GCP
 
 <p align="center">
   <img src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4?raw=true" width = 300 height = 300 alt="GCP"/>
@@ -144,13 +151,13 @@ Anypoint Components            |  Anypoint architecture
 
 [Pub/Sub - Youtube](https://www.youtube.com/watch?v=74Rb1to0vNc)
 
-### SAP
+## SAP
 
 <p align="center">
   <img src="https://www.appythings.nl/wp-content/uploads/2018/06/SAP-logo-icon-PNG-Transparent-Background.png?raw=true" width = 280 height = 280 alt="SAP"/>
 </p>
 
-#### Youtube
+### Youtube
 
 [SAP Connector demo](https://www.youtube.com/watch?v=1xenBmdVNSo)
 
@@ -162,7 +169,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Detailed explanation](https://www.youtube.com/watch?v=nrfKgiJvVuw)
 
-### Oracle
+## Oracle
 
 <p align="center">
   <img src="https://www.logolynx.com/images/logolynx/f7/f7b92de2e32ef4b05d6ada45aa1141bf.png?raw=true" width = 1400 height = 280 alt="oci"/>
@@ -176,7 +183,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Fusion/Cloud ERP](https://www.astcorporation.com/mulesoft-oracle-connector/)
 
-#### Youtube
+### Youtube
 
 [EBS](https://www.youtube.com/watch?v=aO48A17RQqg)
 
@@ -190,7 +197,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
 
-### Twilio
+## Twilio
 
 <p align="center">
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 300 height = 300 alt="Twilio"/>
@@ -200,7 +207,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Twilio dev-guide](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/twilio-cloud-connector-2/)
 
-### AWS
+## AWS
 
 <p align="center">
   <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" width = 400 height = 300 alt="AWS"/>
@@ -210,7 +217,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Extending AWS with Mulesoft - white paper](https://www.mulesoft.com/webinars/api/aws-integration-developer)
 
-#### Youtube
+### Youtube
 
 [AWS S3 with Mulesoft](https://www.youtube.com/watch?v=VlPmg2lVvzM)
 
@@ -218,7 +225,7 @@ Anypoint Components            |  Anypoint architecture
 
 [lambda](https://www.youtube.com/watch?v=Fad_shR9hMw)
 
-### ServiceNow
+## ServiceNow
 
 <p align="center">
   <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/technology-partners/transparent-sn-logo%20%281%29.png" width = 1000 height = 260 alt="Microsoft"/>
@@ -232,17 +239,25 @@ Anypoint Components            |  Anypoint architecture
 
 [ServiceNow - official documentation](https://docs.mulesoft.com/servicenow-connector/6.8/)
 
-### Other SaaS
+## Other SaaS
 
 [Docusign](https://www.whishworks.com/blog/mulesoft/integrating-docusign-with-mulesoft/)
 
-### Open Source/technology/generic
+### Sign up for your very own SaaS to play with
+
+[salesforce](https://developer.salesforce.com/signup)
+
+[ServiceNow](https://developer.servicenow.com/dev.do)
+
+[okta](https://developer.okta.com/signup)
+
+## Open Source/technology/generic
 
 [File based integrations](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/howto-file-based-integrations-and-transfer/)
 
 [kafka](https://www.royalcyber.com/blog/apache-kafka/apache-kafka-integration-with-mulesoft/)
 
-#### General REST APIs
+### General REST APIs
 
 <p align="center">
   <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png?raw=true" alt="general"/>
@@ -250,7 +265,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Consuming REST in Mulesoft - Youtube](https://www.youtube.com/watch?v=fLJnezzVU4s)
 
-#### APIs to play with
+### APIs to play with
 
 [World Atlas](http://restcountries.eu)
 
@@ -258,13 +273,13 @@ Anypoint Components            |  Anypoint architecture
 
 [News API](https://newsapi.org)
 
+- [Here's an example](https://github.com/GaryHostt/DailyNewsText) of a custom code application I wrote that calls this API.
+
 [Census](https://www.census.gov/data/developers/data-sets.html)
 
 [The Department of Justice](https://www.justice.gov/developer/api-documentation/api_v1)
 
-[API-led Connectivity slides](https://www.slideshare.net/mulesoft/transform-your-business-with-apiled-connectivity)
-
-## Administering Mulesoft
+# Administering Mulesoft
 
 [CloudHub connector](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-cloudhub/)
 
@@ -276,7 +291,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Increasing JVM memory](https://help.mulesoft.com/s/article/Increasing-JVM-memory-heap-in-Anypoint-Studio-to-avoid-OutOfMemory-issues)
 
-### Youtube
+## Youtube
 
 [Object store on Mulesoft](https://www.youtube.com/watch?v=gXZMxTZoXCQ)
 
@@ -286,7 +301,7 @@ Anypoint Components            |  Anypoint architecture
 
 [Using Github with Anypoint studio](https://www.youtube.com/watch?v=35fHx23zjP0)
 
-### Mulesoft on other clouds
+## Mulesoft on other clouds
 
 [Runtime Fabric on AWS](https://stackoverflow.com/questions/57526007/deploying-mulesoft-application-using-azure-devops)
 
@@ -296,9 +311,9 @@ Anypoint Components            |  Anypoint architecture
 
 [Deploy Mulesoft with Azure DevOps](https://dzone.com/articles/deploying-mulesoft-using-azure-devops) + [details](https://stackoverflow.com/questions/57526007/deploying-mulesoft-application-using-azure-devops)
 
-## Certifications
+# Certifications
 
-### Offical
+## Offical
 
 [Preparing - what you need to know, by Mulesoft](https://www.mulesoft.com/webinars/api/preparing-for-mulesoft-certifications)
 
@@ -310,7 +325,7 @@ Anypoint Components            |  Anypoint architecture
 
 [All Mulesoft Certifications](https://training.mulesoft.com/certification)
 
-### Third party
+## Third party
 
 [Mulesy - general guide](https://mulesy.com/0-mulesoft-certifications/)
 
@@ -318,11 +333,13 @@ Anypoint Components            |  Anypoint architecture
 
 [Udemy - Mulesoft Platform Architect](https://www.udemy.com/course/ultimate-mulesoft-certified-platform-architect-course/)
 
-## Misc
+# Misc
 
 [Ross Mason, the founder of Mulesoft](https://www.forbes.com/sites/stuartanderson/2016/06/04/ross-mason-immigrant-founder-of-1-5-billion-mulesoft-on-job-market-and-managing-a-global-company/?sh=608acfc547e3)
 
 [Workshop presentations](https://martinhumpolec.cz/mulesoft-workshop/)
+
+[API-led Connectivity slides](https://www.slideshare.net/mulesoft/transform-your-business-with-apiled-connectivity)
 
 [HCM best practices - white paper](https://www.mulesoft.com/lp/whitepaper/api/hcm-integration-best-practices)
 
