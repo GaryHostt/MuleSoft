@@ -1,5 +1,5 @@
 # Mulesoft
-Knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide vertical solutions for potential mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical.
+This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide vertical solutions for potential Mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical.
 
 <p align="center">
   <img src="https://www.mulesoft.com/sites/default/files/MuleSoft_logo_299C_stacked_3.png?raw=true" width = 510 height = 360 alt="Mule"/>
