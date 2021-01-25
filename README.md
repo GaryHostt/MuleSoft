@@ -14,7 +14,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 ## Outline of this repo
 
 - Official links
-- Components of Mulesoft
+- Anypoint
 - Training
 - How to integrate with X, Y, Z
 - Administering Mulesoft
@@ -48,7 +48,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 - Find the best practices
 
-[Vertical specific solutions](https://www.mulesoft.com/integration-solutions)
+[Vertical/Industry specific solutions](https://www.mulesoft.com/integration-solutions)
 
 ### Youtube
 
