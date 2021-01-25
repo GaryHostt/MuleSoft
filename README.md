@@ -9,7 +9,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 [What is Mulesoft?](https://www.salesforce.com/blog/what-is-mulesoft/)
 
-- Try Mulesoft with a 30 day trial [here](https://www.mulesoft.com/legal/terms/trial)
+- Try Mulesoft with a 30 day trial [here](https://www.mulesoft.com/legal/terms/trial). You can keep AnypointStudio on your laptop past that (which is plenty to learn how to develop with Mulesoft), but after you will lose access to cloud deployments.
 
 ## Outline of this repo
 
@@ -94,7 +94,7 @@ Menu                           |  Architecture
 
 [API-led Connectivity](http://workshop.tools.mulesoft.com/modules/module0)
 
-- This is the first place I would tell you to start in order to learn Mulesoft. 
+- This is the **first place** I would tell you to start in order to learn Mulesoft. 
 
 [Mulesoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
 
