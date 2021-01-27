@@ -236,7 +236,7 @@ Menu                           |  Architecture
 ## AWS
 
 <p align="center">
-  <img src="https://www.toughlex.com/wp-content/uploads/2018/01/aws-transparent.png?raw=true" width = 360 height = 270 alt="AWS"/>
+  <img src="http://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_logo_AWS.png?raw=true" width = 550 height = 160 alt="AWS"/>
 </p>
 
 [General resources](https://blogs.mulesoft.com/tag/aws-integration/)
