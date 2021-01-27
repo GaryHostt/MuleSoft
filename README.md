@@ -2,7 +2,7 @@
   <img src="https://www.mulesoft.com/sites/default/files/MuleSoft_logo_299C_stacked_3.png?raw=true" width = 510 height = 360 alt="Mule"/>
 </p>
 
-This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide vertical solutions for potential Mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical. I am proud to work at a company committed to [equality](https://www.salesforce.com/company/equality/?bc=OTH) and offers a developer portal for [COVID-19](https://covid-19.mulesoft-crisis-response.com/s/) resources.
+This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). I provide solutions for potential Mulesoft customers in the [manufacturing](https://www.mulesoft.com/integration-solutions/api/manufacturing-edi-erp) vertical. I am proud to work at a company committed to [equality](https://www.salesforce.com/company/equality/?bc=OTH) and offers a developer portal for [COVID-19](https://covid-19.mulesoft-crisis-response.com/s/) resources.
 
 ## Introduction 
 
