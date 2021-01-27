@@ -149,8 +149,6 @@ Menu                           |  Architecture
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png?raw=true" width = 480 height = 180 alt="Microsoft"/>
 </p>
 
-[Dynamics-1](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-ms-dynamics-crm/) & [Dynamics-2](https://docs.mulesoft.com/microsoft-dynamics-crm-connector/0.3.8/)
-
 [SQL Server - 1](https://mulesy.com/microsoft-sql-server-with-mule/) & [SQL Server - 2](https://dzone.com/articles/connecting-to-ms-sql-server-with-mulesoft)
 
 [Azure storage](https://mulesy.com/integrating-azure-storage-with-mulesoft/)
@@ -158,6 +156,10 @@ Menu                           |  Architecture
 [Azure Service Bus connector documentation](https://docs.mulesoft.com/microsoft-azure-sb-connector/3.1/) + [how to-1](https://www.whishworks.com/blog/mulesoft/integration-of-mule-esb-with-microsoft-azure/) & [how to-2](https://www.ricston.com/blog/mulesoft-connectivity-with-microsoft-azure-service-bus/)
 
 [Azure data lake](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/create-customer-360-mulesoft-azure-data-lake-store/)
+
+[Step by step instructions on configuring Sharepoint](https://mulesy.com/create-trail-account-on-sharepoint/) and using [the connector](https://mulesy.com/file-operations-using-sharepoint-connector-in-mule-4/)
+
+[Dynamics-1](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-ms-dynamics-crm/) & [Dynamics-2](https://docs.mulesoft.com/microsoft-dynamics-crm-connector/0.3.8/)
 
 ## GCP
 
