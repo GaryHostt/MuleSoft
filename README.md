@@ -236,7 +236,7 @@ Menu                           |  Architecture
 ## AWS
 
 <p align="center">
-  <img src="http://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_logo_AWS.png?raw=true" width = 550 height = 160 alt="AWS"/>
+  <img src="http://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_logo_AWS.png?raw=true" width = 550 height = 200 alt="AWS"/>
 </p>
 
 [General resources](https://blogs.mulesoft.com/tag/aws-integration/)
