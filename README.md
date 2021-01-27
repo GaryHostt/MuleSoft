@@ -10,7 +10,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 - Try Mulesoft with a 30 day trial [here](https://www.mulesoft.com/legal/terms/trial). You can keep AnypointStudio on your laptop past that (which is plenty to learn how to develop with Mulesoft), but after you will lose access to cloud deployments.
 
-## Outline of this repo
+## Outline
 
 - Getting started
 - Anypoint
