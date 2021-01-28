@@ -43,7 +43,7 @@ This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald]
 
 [White papers](https://www.mulesoft.com/integration-resources?type[0]=Whitepaper) & [Articles](https://www.mulesoft.com/resources/articles)
 
-- Find the best practices
+- Find the best practices, example: [HCM](https://www.mulesoft.com/lp/whitepaper/api/hcm-integration-best-practices)
 
 [Vertical/Industry specific solutions](https://www.mulesoft.com/integration-solutions)
 
@@ -149,6 +149,44 @@ Menu                           |  Architecture
 
 [syncing data to AWS S3](https://www.youtube.com/watch?v=b3Z9pWi2lkk)
 
+## Oracle
+
+<p align="center">
+  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png?raw=true" width = 550 height = 160 alt="oci"/>
+</p>
+
+### Applications
+
+[Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
+
+[Eloqua](http://cdn.cdata.com/help/DUF/mule/)
+
+[Fusion/Cloud ERP](https://www.astcorporation.com/mulesoft-oracle-connector/)
+
+[Sales Cloud](https://www.youtube.com/watch?v=Fd-XHKQCJPA)
+
+[Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
+
+[All Mulesoft Oracle templates](https://www.mulesoft.com/exchange/?type=template&search=oracle)
+
+[EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/) and on [exchange](https://www.mulesoft.com/exchange/com.mulesoft.connectors/mule-oracle-ebs-122-connector/)
+
+- The EBS connector is one of many supported directly by Mulesoft, and can be used to capture business events and more.
+
+<p align="center">
+  <img src="https://docs.mulesoft.com/oracle-e-business-suite-connector/0.3.6/_images/connector-architecture.jpg?raw=true" width = 500 height = 160 alt="ebs"/>
+</p>
+
+### Youtube
+
+[EBS connector](https://www.youtube.com/watch?v=aO48A17RQqg)
+
+[Oracle Database Connector](https://www.youtube.com/watch?v=EEDl0Sn8N5I)
+
+[Query Oracle Database](https://www.youtube.com/watch?v=AW6_unMvxYY)
+
+[Insert to Oracle Database](https://www.youtube.com/watch?v=Rxz6CnC0L1o)
+
 ## Microsoft
 
 <p align="center">
@@ -199,54 +237,6 @@ Menu                           |  Architecture
 
 [Detailed explanation](https://www.youtube.com/watch?v=nrfKgiJvVuw)
 
-## Oracle
-
-<p align="center">
-  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png?raw=true" width = 550 height = 160 alt="oci"/>
-</p>
-
-### Applications
-
-[Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
-
-[Eloqua](http://cdn.cdata.com/help/DUF/mule/)
-
-[Fusion/Cloud ERP](https://www.astcorporation.com/mulesoft-oracle-connector/)
-
-[Sales Cloud](https://www.youtube.com/watch?v=Fd-XHKQCJPA)
-
-[Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
-
-[All Mulesoft Oracle templates](https://www.mulesoft.com/exchange/?type=template&search=oracle)
-
-[EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/) and on [exchange](https://www.mulesoft.com/exchange/com.mulesoft.connectors/mule-oracle-ebs-122-connector/)
-
-- The EBS connector is one of many supported directly by Mulesoft, and can be used to capture business events and more.
-
-<p align="center">
-  <img src="https://docs.mulesoft.com/oracle-e-business-suite-connector/0.3.6/_images/connector-architecture.jpg?raw=true" width = 500 height = 160 alt="ebs"/>
-</p>
-
-### Youtube
-
-[EBS connector](https://www.youtube.com/watch?v=aO48A17RQqg)
-
-[Oracle Database Connector](https://www.youtube.com/watch?v=EEDl0Sn8N5I)
-
-[Query Oracle Database](https://www.youtube.com/watch?v=AW6_unMvxYY)
-
-[Insert to Oracle Database](https://www.youtube.com/watch?v=Rxz6CnC0L1o)
-
-## Twilio
-
-<p align="center">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 285 height = 260 alt="Twilio"/>
-</p>
-
-[Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
-
-[Twilio dev-guide](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/twilio-cloud-connector-2/)
-
 ## AWS
 
 <p align="center">
@@ -278,6 +268,16 @@ Menu                           |  Architecture
 [ServiceNow - official documentation](https://docs.mulesoft.com/servicenow-connector/6.8/)
 
 [ServiceNow templates on Exchange](https://www.mulesoft.com/exchange/?type=template&search=servicenow)
+
+## Twilio
+
+<p align="center">
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/twilio-logo.png?raw=true" width = 285 height = 260 alt="Twilio"/>
+</p>
+
+[Twilio connector documentation](https://docs.mulesoft.com/twilio-connector/3.0/)
+
+[Twilio dev-guide](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/twilio-cloud-connector-2/)
 
 ## Other SaaS
 
@@ -400,7 +400,5 @@ Menu                           |  Architecture
 [Workshop presentations](https://martinhumpolec.cz/mulesoft-workshop/)
 
 [API-led Connectivity slides](https://www.slideshare.net/mulesoft/transform-your-business-with-apiled-connectivity)
-
-[HCM best practices - white paper](https://www.mulesoft.com/lp/whitepaper/api/hcm-integration-best-practices)
 
 
