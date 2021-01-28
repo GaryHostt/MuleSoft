@@ -117,11 +117,11 @@ Menu                           |  Architecture
 
 [Top 10 Mulesoft connectors](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/top-download-connectors-anypoint-platform/)
 
+- All of these are discussed in this repo.
+
 [Mulesoft Anypoint Examples on Github](https://github.com/mulesoft/anypoint-examples)
 
 [Batch jobs & Docker with Mulesoft](https://github.com/manikmagar/mule4-examples) 
-
-- All of these are discussed in this repo.
 
 [Mulesy - sample POCs](https://mulesy.com/mulesoft-pocs/)
 
