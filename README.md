@@ -209,7 +209,7 @@ Menu                           |  Architecture
 
 [Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
 
-[EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/) with [Youtube video example](https://www.youtube.com/watch?v=aO48A17RQqg)
+[EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/)
 
 [Eloqua](http://cdn.cdata.com/help/DUF/mule/)
 
@@ -221,9 +221,11 @@ Menu                           |  Architecture
 
 [All Mulesoft Oracle templates](https://www.mulesoft.com/exchange/?type=template&search=oracle)
 
-### Database - Youtube videos
+### Youtube
 
-[Oracle Database](https://www.youtube.com/watch?v=EEDl0Sn8N5I)
+[EBS connector]([Youtube video example](https://www.youtube.com/watch?v=aO48A17RQqg)
+
+[Oracle Database Connector](https://www.youtube.com/watch?v=EEDl0Sn8N5I)
 
 [Query Oracle Database](https://www.youtube.com/watch?v=AW6_unMvxYY)
 
