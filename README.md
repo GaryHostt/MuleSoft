@@ -81,7 +81,7 @@ Menu                           |  Architecture
 
 [Mulesoft Composer](https://www.mulesoft.com/platform/api/no-code-integration-tool)
 
-- COMING SOON!
+- COMING SOON! This will be awesome.
 
 [Object Storage](https://anypoint.mulesoft.com/exchange/org.mule.modules/mule-module-objectstore/)
 
