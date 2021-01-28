@@ -223,7 +223,7 @@ Menu                           |  Architecture
 
 ### Youtube
 
-[EBS connector]([Youtube video example](https://www.youtube.com/watch?v=aO48A17RQqg)
+[EBS connector](https://www.youtube.com/watch?v=aO48A17RQqg)
 
 [Oracle Database Connector](https://www.youtube.com/watch?v=EEDl0Sn8N5I)
 
