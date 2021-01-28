@@ -111,11 +111,15 @@ Menu                           |  Architecture
 
 # How to integrate with X
 
+## General
+
 [Mulesoft connector documentation - yes, all of them](https://docs.mulesoft.com/connectors/)
 
 [Top 10 Mulesoft connectors](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/top-download-connectors-anypoint-platform/)
 
 [Mulesoft Anypoint Examples on Github](https://github.com/mulesoft/anypoint-examples)
+
+[Batch jobs & Docker with Mulesoft](https://github.com/manikmagar/mule4-examples) 
 
 - All of these are discussed in this repo.
 
@@ -320,6 +324,8 @@ Menu                           |  Architecture
 [COVID-19 Data Tracking](https://www.mulesoft.com/exchange/68ef9520-24e9-4cf2-b2f5-620025690913/covid19-data-tracking-api/)
 
 # Administering Mulesoft
+
+[Mule Deployments as Code](https://github.com/mulesoft-consulting/MuleSoft_DeploymentAsCode)
 
 [Using your own Identity Provider with Mulesoft](https://docs.mulesoft.com/access-management/managing-users)
 
