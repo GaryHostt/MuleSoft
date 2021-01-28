@@ -209,14 +209,6 @@ Menu                           |  Architecture
 
 [Peoplesoft](https://www.mulesoft.com/resources/api/oracle-peoplesoft-integration)
 
-[EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/) and on [exchange](https://www.mulesoft.com/exchange/com.mulesoft.connectors/mule-oracle-ebs-122-connector/)
-
-- The EBS connector is one of many supported by Mulesoft, and can be used to capture business events and more.
-
-<p align="center">
-  <img src="https://docs.mulesoft.com/oracle-e-business-suite-connector/0.3.6/_images/connector-architecture.jpg?raw=true" width = 500 height = 140 alt="oci"/>
-</p>
-
 [Eloqua](http://cdn.cdata.com/help/DUF/mule/)
 
 [Fusion/Cloud ERP](https://www.astcorporation.com/mulesoft-oracle-connector/)
@@ -226,6 +218,14 @@ Menu                           |  Architecture
 [Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
 
 [All Mulesoft Oracle templates](https://www.mulesoft.com/exchange/?type=template&search=oracle)
+
+[EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/) and on [exchange](https://www.mulesoft.com/exchange/com.mulesoft.connectors/mule-oracle-ebs-122-connector/)
+
+- The EBS connector is one of many supported directly by Mulesoft, and can be used to capture business events and more.
+
+<p align="center">
+  <img src="https://docs.mulesoft.com/oracle-e-business-suite-connector/0.3.6/_images/connector-architecture.jpg?raw=true" width = 500 height = 160 alt="ebs"/>
+</p>
 
 ### Youtube
 
