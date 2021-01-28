@@ -115,6 +115,8 @@ Menu                           |  Architecture
 
 [Top 10 Mulesoft connectors](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/top-download-connectors-anypoint-platform/)
 
+[Mulesoft Anypoint Examples on Github](https://github.com/mulesoft/anypoint-examples)
+
 - All of these are discussed in this repo.
 
 [Mulesy - sample POCs](https://mulesy.com/mulesoft-pocs/)
