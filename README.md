@@ -143,6 +143,8 @@ Menu                           |  Architecture
 
 [Querying salesforce with Mulesoft](https://www.youtube.com/watch?v=TeAHUjILPJA)
 
+- [Official salesforce SOQL guide](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
+
 [salesforce & Mulesoft workshop](https://www.youtube.com/watch?v=NplNJIdT1y4&list=PL5jx2tzaZzrACn0PHDslh_S7cMO4FIk86)
 
 [batch request](https://www.youtube.com/watch?v=6AYGCfQCOCQ)
