@@ -6,9 +6,9 @@
 
 ## Introduction 
 
-[What is Mulesoft?](https://www.salesforce.com/blog/what-is-mulesoft/)
+[What is MuleSoft?](https://www.salesforce.com/blog/what-is-mulesoft/)
 
-- Try Mulesoft with a 30 day trial [here](https://www.mulesoft.com/legal/terms/trial). You can keep AnypointStudio on your laptop past that (which is plenty to learn how to develop with Mulesoft), but after you will lose access to cloud deployments.
+- Try MuleSoft with a 30 day trial [here](https://www.mulesoft.com/legal/terms/trial). You can keep AnypointStudio on your laptop past that (which is plenty to learn how to develop with Mulesoft), but after you will lose access to cloud deployments.
 
 ## Outline
 
@@ -16,7 +16,7 @@
 - Anypoint
 - Training
 - How to integrate with X, Y, Z
-- Administering Mulesoft
+- Administering MuleSoft
 - Certifications
 - Misc
 
@@ -31,13 +31,13 @@
 
 - ~50% of this repo can be found somewhere there.
 
-[Official Mulesoft documentation](https://docs.mulesoft.com/general/)
+[Official MuleSoft documentation](https://docs.mulesoft.com/general/)
 
 [Login to Anypoint Platform](https://anypoint.mulesoft.com/login/) ++ [additional useful tools to enhance development](https://blogs.mulesoft.com/dev-guides/api-design/enhance-developers-anypoint-studio-experiences/)
 
 - This is where I spend most of my time these days.
 
-[Radio Mulesoft, a podcast](https://podcasts.apple.com/be/podcast/radio-mulesoft/id1498103178)
+[Radio MuleSoft, a podcast](https://podcasts.apple.com/be/podcast/radio-mulesoft/id1498103178)
 
 - [Season 2 episode 1](https://podcasts.apple.com/be/podcast/apis-unplugged-season-2-episode-1-api-questions-for/id1498103178?i=1000506223990) started off with a very interesting story on how [this happened](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/) (**hint: bad API design!**).
 
@@ -49,7 +49,7 @@
 
 ### Youtube
 
-[Mulesoft channel](https://www.youtube.com/user/mulesoftvids)
+[MuleSoft channel](https://www.youtube.com/user/mulesoftvids)
 
 [What is API-led Connectivity?](https://www.youtube.com/watch?v=WYociWuCInE)
 
@@ -57,11 +57,11 @@
 
 [What is Mulesoft? Tutorial playlist](https://www.youtube.com/watch?v=lRpJtMfa4zs&list=PLfEAetjBY9s5gywT2hC95rnZaW5CEZis-)
 
-### You & Mulesoft
+### You & MuleSoft
 
-[Work at Mulesoft!](https://www.mulesoft.com/careers)
+[Work at MuleSoft!](https://www.mulesoft.com/careers)
 
-[Mulesoft meetups](https://meetups.mulesoft.com)
+[MuleSoft meetups](https://meetups.mulesoft.com)
 
 [Customer case studies](https://www.mulesoft.com/case-studies)
 
@@ -95,7 +95,7 @@ Menu                           |  Architecture
 
 - This is the **first place** I would tell you to start in order to learn Mulesoft. 
 
-[Mulesoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
+[MuleSoft tutorials](https://developer.mulesoft.com/tutorials-and-howtos)
 
 [Top tutorials for new developers](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/getting-started-with-mulesoft/)
 
@@ -103,7 +103,7 @@ Menu                           |  Architecture
 
 ### Third party
 
-[Free Mulesoft self-paced training](https://training.mulesoft.com/course-catalog?results=true&courseFormat=Self-paced)
+[Free MuleSoft self-paced training](https://training.mulesoft.com/course-catalog?results=true&courseFormat=Self-paced)
 
 [TutorialsPoint](https://www.tutorialspoint.com/mulesoft/index.htm)
 
@@ -113,15 +113,15 @@ Menu                           |  Architecture
 
 ## General
 
-[Mulesoft connector documentation - yes, all of them](https://docs.mulesoft.com/connectors/)
+[MuleSoft connector documentation - yes, all of them](https://docs.mulesoft.com/connectors/)
 
-[Top 10 Mulesoft connectors](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/top-download-connectors-anypoint-platform/)
+[Top 10 MuleSoft connectors](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/top-download-connectors-anypoint-platform/)
 
 - All of these are discussed in this repo.
 
-[Mulesoft Anypoint Examples on Github](https://github.com/mulesoft/anypoint-examples)
+[MuleSoft Anypoint Examples on Github](https://github.com/mulesoft/anypoint-examples)
 
-[Batch jobs & Docker with Mulesoft](https://github.com/manikmagar/mule4-examples) 
+[Batch jobs & Docker with MuleSoft](https://github.com/manikmagar/mule4-examples) 
 
 [Mulesy - sample POCs](https://mulesy.com/mulesoft-pocs/)
 
@@ -135,17 +135,17 @@ Menu                           |  Architecture
 
 [Connector documentation](https://docs.mulesoft.com/salesforce-connector/0.3.9/)
 
-[All Mulesoft salesforce integration templates](https://www.mulesoft.com/exchange/?type=template&search=salesforce)
+[All MuleSoft salesforce integration templates](https://www.mulesoft.com/exchange/?type=template&search=salesforce)
 
 - you can search for any application for Mulesoft supported templates
 
 ### Youtube
 
-[Querying salesforce with Mulesoft](https://www.youtube.com/watch?v=TeAHUjILPJA)
+[Querying salesforce with MuleSoft](https://www.youtube.com/watch?v=TeAHUjILPJA)
 
 - [Official salesforce SOQL guide](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
 
-[salesforce & Mulesoft workshop](https://www.youtube.com/watch?v=NplNJIdT1y4&list=PL5jx2tzaZzrACn0PHDslh_S7cMO4FIk86)
+[salesforce & MuleSoft workshop](https://www.youtube.com/watch?v=NplNJIdT1y4&list=PL5jx2tzaZzrACn0PHDslh_S7cMO4FIk86)
 
 [batch request](https://www.youtube.com/watch?v=6AYGCfQCOCQ)
 
@@ -169,7 +169,7 @@ Menu                           |  Architecture
 
 [Netsuite](https://www.youtube.com/watch?v=venI2PBqgEY)
 
-[All Mulesoft Oracle templates](https://www.mulesoft.com/exchange/?type=template&search=oracle)
+[All MuleSoft Oracle templates](https://www.mulesoft.com/exchange/?type=template&search=oracle)
 
 [EBS connector documentation](https://docs.mulesoft.com/oracle-ebs-122-connector/2.1/) and on [exchange](https://www.mulesoft.com/exchange/com.mulesoft.connectors/mule-oracle-ebs-122-connector/)
 
@@ -247,11 +247,11 @@ Menu                           |  Architecture
 
 [General resources](https://blogs.mulesoft.com/tag/aws-integration/)
 
-[Extending AWS with Mulesoft - white paper](https://www.mulesoft.com/webinars/api/aws-integration-developer)
+[Extending AWS with MuleSoft - white paper](https://www.mulesoft.com/webinars/api/aws-integration-developer)
 
 ### Youtube
 
-[AWS S3 with Mulesoft](https://www.youtube.com/watch?v=VlPmg2lVvzM)
+[AWS S3 with MuleSoft](https://www.youtube.com/watch?v=VlPmg2lVvzM)
 
 [Redshift](https://www.youtube.com/watch?v=uAfEg80SqOA&t=9s)
 
@@ -355,7 +355,7 @@ Menu                           |  Architecture
 
 ## Youtube
 
-[Object store on Mulesoft](https://www.youtube.com/watch?v=gXZMxTZoXCQ)
+[Object store on MuleSoft](https://www.youtube.com/watch?v=gXZMxTZoXCQ)
 
 [CI/CD - high level](https://www.youtube.com/watch?v=c_Mlifcikj8)
 
