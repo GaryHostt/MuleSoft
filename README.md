@@ -2,7 +2,7 @@
   <img src="https://www.mulesoft.com/sites/default/files/MuleSoft_logo_299C_stacked_3.png?raw=true" width = 510 height = 360 alt="Mule"/>
 </p>
 
-This is a knowledge repository for integrating with Mulesoft by [Alex MacDonald](https://intro.alexmacdonald.solutions). 
+**by [Alex MacDonald](https://intro.alexmacdonald.solutions).**
 
 ## Introduction 
 
