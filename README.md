@@ -12,8 +12,6 @@
 
 [MuleSoft](https://status.mulesoft.com/) status & [salesforce](https://trust.salesforce.com/en/) Trust
 
-- Is salesforce running
-
 ## Outline
 
 - Getting started
