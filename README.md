@@ -10,6 +10,10 @@
 
 - Try MuleSoft with a 30 day trial [here](https://www.mulesoft.com/legal/terms/trial). You can keep AnypointStudio on your laptop past that (which is plenty to learn how to develop with Mulesoft), but after you will lose access to cloud deployments.
 
+[MuleSoft](https://status.mulesoft.com/) status & [salesforce](https://trust.salesforce.com/en/) Trust
+
+- Is salesforce running
+
 ## Outline
 
 - Getting started
