@@ -407,7 +407,7 @@ Menu                           |  Architecture
 
 [Youtube - subflows, attribues, variables, VM connector, and flow reference](https://www.youtube.com/watch?v=X2luxC5cxw8)
 
-[Scatter-gather](https://docs.mulesoft.com/mule-runtime/4.3/scatter-gather-concept
+[Scatter-gather](https://docs.mulesoft.com/mule-runtime/4.3/scatter-gather-concept)
 
 [Youtube - scatter-gather](https://www.youtube.com/watch?v=mTspKZhpyck)
 
@@ -463,7 +463,7 @@ Menu                           |  Architecture
 
 - easiest way to practice your DataWeave skills
 
-[Youtube - Map & mapObject in DW](Map and mapObject dataweave in Mule ESB)
+[Youtube - Map & mapObject in DW](https://www.youtube.com/watch?v=YDb4hY9zbcw)
 
 ...........
 
