@@ -397,6 +397,88 @@ Menu                           |  Architecture
 
 [Udemy - Mulesoft Platform Architect](https://www.udemy.com/course/ultimate-mulesoft-certified-platform-architect-course/)
 
+## Study links
+
+- some of my bookmarks for [MCD](https://training.mulesoft.com/certification/developer-mule4-level1) studying
+
+### Flows
+
+[Mule Flows 101](https://blogs.mulesoft.com/dev-guides/api-design/mule-flows-101-types-attributes-variables/)
+
+[Youtube - subflows, attribues, variables, VM connector, and flow reference](https://www.youtube.com/watch?v=X2luxC5cxw8)
+
+[Scatter-gather](https://docs.mulesoft.com/mule-runtime/4.3/scatter-gather-concept
+
+[Youtube - scatter-gather](https://www.youtube.com/watch?v=mTspKZhpyck)
+
+[Youtube - choice router](https://www.youtube.com/watch?v=R_br2QDqsHI)
+
+[Error Handling](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/)
+
+[Youtube - error handling](https://www.youtube.com/watch?v=a86tdUBu9lQ)
+
+...........
+
+### Connectors
+
+[List Files w/ file connector](https://docs.mulesoft.com/file-connector/1.3/file-list)
+
+[Youtube - file connector](https://www.youtube.com/watch?v=eUUIGer0XKM)
+
+[Youtube - database adapter](https://www.youtube.com/watch?v=n1CD6iXNmm8)
+
+[Consume JMS messages](https://docs.mulesoft.com/jms-connector/1.7/jms-consume)
+
+[VM Connector](https://docs.mulesoft.com/vm-connector/2.0/)
+
+[Web Service/SOAP tutorial](https://tutorialspedia.com/mulesoft-step-by-step-tutorial-consume-soap-web-service-using-mule4/)
+
+...........
+
+### Misc
+
+[Class-loading isolation](https://docs.mulesoft.com/mule-runtime/4.3/about-classloading-isolation)
+
+[Add SLA tiers to API Groups](https://docs.mulesoft.com/api-manager/2.x/api-groups-add-sla-tiers)
+
+[API Autodiscovery](https://docs.mulesoft.com/api-manager/2.x/api-auto-discovery-new-concept)
+
+[Defining examples in RAML](https://docs.mulesoft.com/design-center/design-named-examples)
+
+[RAML Tutorial](https://raml.org/developers/raml-200-tutorial)
+
+[Watermarks + object store](https://docs.mulesoft.com/object-store-connector/1.1/object-store-to-watermark)
+
+[HTTPS service](https://docs.mulesoft.com/mule-runtime/4.3/build-an-https-service)
+
+...........
+
+### DataWeave
+
+[DataWeave reference](https://docs.mulesoft.com/mule-runtime/4.3/dw-functions)
+
+[DataWeave JSON to XML](https://www.jitendrazaa.com/blog/integration/mulesoft/mulesoft-4-transformation-convert-json-to-xml/)
+
+[DataWeave Playground](https://dwlang.fun/)
+
+- easiest way to practice your DataWeave skills
+
+[Youtube - Map & mapObject in DW](Map and mapObject dataweave in Mule ESB)
+
+...........
+
+### Batch & For each scopes
+
+[Youtube - batch processing](https://www.youtube.com/watch?v=sxtbeiRkZWQ&list=PL5GwZHHgKcuCc9bWcBy73yjtEOZ5pcJW6)
+
+[Mule batch jobs](https://dzone.com/articles/mule-batch-jobs-and-its-variables)
+
+[Youtube - batch aggregator/step/accept expressions](https://www.youtube.com/watch?v=ruCWz2yPCvk)
+
+[Youtube - batch processing + salesforce](https://www.youtube.com/watch?v=sxtbeiRkZWQ)
+
+[Youtube - for each scope](https://www.youtube.com/watch?v=ccE9hs1tY6c)
+
 # Misc
 
 [Ross Mason, the founder of Mulesoft](https://www.forbes.com/sites/stuartanderson/2016/06/04/ross-mason-immigrant-founder-of-1-5-billion-mulesoft-on-job-market-and-managing-a-global-company/?sh=608acfc547e3)
